@@ -5,13 +5,6 @@ Created on Wed May  1 22:38:55 2019
 @author: Wenqing
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 17 22:12:32 2019
-
-@author: Wenqing
-"""
-
 import numpy as np
 import random
 import math
